@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943212481533",
+    "firebase_url": "https://chatfree-f9aae.firebaseio.com",
+    "project_id": "chatfree-f9aae",
+    "storage_bucket": "chatfree-f9aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943212481533:android:8914c0b272025379",
+        "android_client_info": {
+          "package_name": "chat.loanxu.chatfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943212481533-5fco1l9iq0cnim8ip6gbglsgti5iuhi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.loanxu.chatfree",
+            "certificate_hash": "18b89cdadcf5cbc877ae7f7c9250965d72b5bc64"
+          }
+        },
+        {
+          "client_id": "943212481533-0ablumvr90s99vji7uo1iif7ubh0hpcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXY-vf5vutxarJQqoL2hUVcPchpfVEdK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943212481533-0ablumvr90s99vji7uo1iif7ubh0hpcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
